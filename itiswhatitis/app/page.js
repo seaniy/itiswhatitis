@@ -14,7 +14,7 @@ export default function Home() {
             priority
           />
         </div>
-        <div className="content text-white z-10 relative bg-gray-800 bg-opacity-75 rounded-lg p-8">
+        <div className="content text-white z-10 relative bg-gray-800 bg-opacity-35 rounded-lg p-8">
           <h1 className="text-4xl font-bold mb-8">IT IS WHAT IT IS</h1>
           <div className="links flex flex-col gap-4">
             <Link href="https://google.com">CHART</Link>

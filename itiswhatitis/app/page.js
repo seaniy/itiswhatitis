@@ -7,7 +7,7 @@ export default function Home() {
       <div className="container text-center">
         <div className="background-image absolute top-0 left-0 w-full h-full">
           <Image
-            src="/ez.jpg"
+            src="/itiswhatitis.jpg"
             alt="bg"
             layout="fill"
             objectFit="cover"
